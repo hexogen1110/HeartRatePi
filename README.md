@@ -1,8 +1,8 @@
 # HeartRatePi
 ## A simple heart rate monitor on Raspberry Pi 3 for Geonaute BLE (Bluetooth Low Engergy) chest band.
 
-  ![Devices](http://imgur.com/l9JrQPF)  
-  ![GUI](http://imgur.com/3Ua3RgE)  
+  [Devices](http://imgur.com/l9JrQPF)  
+  [GUI](http://imgur.com/3Ua3RgE)  
 
   * GUI:  
   Using **tkinter** module, Python's build-in standard GUI package. Additional PIL package for Image & ImageTk.  
